@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hns:home|Door43 (hns)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hns|d43-hns repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hns/archive/master.zip|d43-hns.zip]]
+
+**Recent Changes**
+{{changes>ns = hns}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hns|Ethnologue data]]
+
